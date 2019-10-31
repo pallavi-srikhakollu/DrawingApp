@@ -88,12 +88,12 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		8E902D2A2369E78A00037FDD /* Classes */ = {
+		8E902D2A2369E78A00037FDD /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				8E902D272369D5D800037FDD /* Drawing.swift */,
 			);
-			path = Classes;
+			path = Model;
 			sourceTree = "<group>";
 		};
 		8E902D2B2369E79600037FDD /* AppFiles */ = {
@@ -151,7 +151,7 @@
 				8EB0FA5A236913DA00E631E3 /* Assets.xcassets */,
 				8EB0FA5F236913DA00E631E3 /* Info.plist */,
 				8E902D292369E78300037FDD /* View */,
-				8E902D2A2369E78A00037FDD /* Classes */,
+				8E902D2A2369E78A00037FDD /* Model */,
 			);
 			path = DrawingApp;
 			sourceTree = "<group>";
